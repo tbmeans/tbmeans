@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on a zero-dependency Node.js MVC project boilerplate for CRUD
-🌱 I’m currently learning Node.js and SQL
+* 🔭 I’m currently working on a zero-dependency Node.js MVC project boilerplate for CRUD
+* 🌱 I’m currently learning Node.js and SQL
+* &#x265e; misc. interests: retro game dev, online chess
